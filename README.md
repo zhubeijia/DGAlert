@@ -1,3 +1,3 @@
 # DGAlert
 
-Official code of CALLEE: Recovering Call Graphs for Binaries with Transfer and Contrastive Learning.
+Official code of DGAlert: Efficient and Robust Real-time DGA Traffic Detection via Contrastive Learning
